@@ -1,0 +1,22 @@
+{
+  "name": "radish-sdk",
+  "version": "1.0.0",
+  "description": "NodeJS SDK for the Radish Framework",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadishFramework/SDK.git"
+  },
+  "author": "Audrey Castillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RadishFramework/SDK/issues"
+  },
+  "homepage": "https://github.com/RadishFramework/SDK#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
